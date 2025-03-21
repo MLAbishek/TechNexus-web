@@ -1,4 +1,4 @@
-# Contents of `/tech-nexus/tech-nexus/README.md`
+
 
 # Tech Nexus
 
