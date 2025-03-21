@@ -1,0 +1,13 @@
+tech-nexus
+├── src
+│   ├── css
+│   │   ├── main.css
+│   │   └── animations.css
+│   ├── js
+│   │   ├── main.js
+│   │   └── components.js
+│   ├── index.html
+│   └── assets
+│       └── fonts
+├── package.json
+└── README.md
